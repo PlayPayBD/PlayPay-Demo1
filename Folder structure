@@ -1,0 +1,11 @@
+playpay-demo/
+├── public/
+│   └── index.html
+├── pages/
+│   ├── index.js
+│   └── game.js
+├── styles/
+│   └── globals.css
+├── .gitignore
+├── package.json
+└── README.md
